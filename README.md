@@ -1,4 +1,3 @@
-# responsive-admin-dashboard-panel
 # Content Information
 → Responsive Design<br>
 → Dark Mode<br>
